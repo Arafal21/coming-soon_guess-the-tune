@@ -1,4 +1,4 @@
-# Guess-The-Tune
+# Guess The Tune
 
 Game inspired by https://whatsamook.games/mu
 
