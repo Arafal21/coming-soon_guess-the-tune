@@ -5,7 +5,7 @@ Game inspired by [https://whatsamook.games/mu](https://zbiorkom.live/krakow) (a 
 Planned project start: 2025/09/01
 Planned project completion: 2026/12/01
 
-A fun, real-time “guess the tune” web game where players pick songs and challenge friends (or strangers) to identify them. Perfect for music lovers, parties, classrooms, and anyone who wants to test their ear for melody!
+A fun, real-time “guess the tune” phone and web game where players pick songs and challenge friends (or strangers) to identify them. Perfect for music lovers, parties, classrooms, and anyone who wants to test their ear for melody!
 
 ## 🎵 Features:
 
@@ -17,8 +17,8 @@ A fun, real-time “guess the tune” web game where players pick songs and chal
 - **Mobile-friendly responsive UI**: Play on phones, tablets, or desktop browsers.
 
 ## 🛠️ Tech Stack - fullstack by me:
-
 - **Frontend **: React + Tailwind CSS + ShadCN
+- **Mobile version **: React Native
 - **Backend **: Node.js + Express + Python
 - **Real-time**: Socket.io  
 - **Database**: MongoD
