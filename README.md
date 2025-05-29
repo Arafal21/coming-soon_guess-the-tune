@@ -17,9 +17,10 @@ A fun, real-time “guess the tune” phone and web game where players pick song
 - **Mobile-friendly responsive UI**: Play on phones, tablets, or desktop browsers.
 
 ## 🛠️ Tech Stack - fullstack by me:
+
 - **Frontend **: React + Tailwind CSS + ShadCN
 - **Mobile version **: React Native
-- **Backend **: Node.js + Express + Python
+- **Backend **: Node.js + Express + Python + AI API
 - **Real-time**: Socket.io  
 - **Database**: MongoD
 
