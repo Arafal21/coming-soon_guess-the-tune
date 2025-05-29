@@ -1,4 +1,6 @@
 # Guess The Tune
+![example-guess-the-tune](https://github.com/user-attachments/assets/4e231368-a965-4627-9b10-76a91bbf83e4)
+(preview image)
 
 Game inspired by [https://whatsamook.games/mu](https://zbiorkom.live/krakow) (a little bit)
 
