@@ -4,8 +4,8 @@
 
 Game inspired by [https://whatsamook.games/mu](https://zbiorkom.live/krakow) (a little bit)
 
-Planned project start: 2025/09/01
-Planned project completion: 2026/12/01
+Planned project start: 2026/10/30 YY/MM/DD
+Planned project completion: 2027/10/30 YY/MM/DD
 
 A fun, real-time “guess the tune” phone and web game where players pick songs and challenge friends (or strangers) to identify them. Perfect for music lovers, parties, classrooms, and anyone who wants to test their ear for melody!
 
