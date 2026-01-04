@@ -21,7 +21,7 @@ A fun, real-time “guess the tune” phone and web game where players pick song
 ## 🛠️ Tech Stack - fullstack by me:
 
 - **Frontend **: React + Tailwind CSS + ShadCN
-- **Mobile version **: Flutter
+- **Mobile version **: Flutter (in the future, currently focusing on fullstack)
 - **Backend **: Node.js + Express + Python + AI
 - **Real-time**: Socket.io  
 - **Database**: MongoD / PostgreSQL
