@@ -21,10 +21,10 @@ A fun, real-time “guess the tune” phone and web game where players pick song
 ## 🛠️ Tech Stack - fullstack by me:
 
 - **Frontend **: React + Tailwind CSS + ShadCN
-- **Mobile version **: React Native
-- **Backend **: Node.js + Express + Python + AI API
+- **Mobile version **: Flutter
+- **Backend **: Node.js + Express + Python + AI
 - **Real-time**: Socket.io  
-- **Database**: MongoD
+- **Database**: MongoD / PostgreSQL
 
 ## 🤖 AI Features:
 ### 1. Real-Time Hint Generator  
